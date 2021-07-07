@@ -7,6 +7,7 @@
 
 ##### 프로젝트
 
+##### team
 
 ###### - dev-diary (개발자로 성장하고 싶은 당신을 위한 커뮤니티)
 
@@ -17,6 +18,12 @@
 
 ###### [배포링크](https://www.todogg.cf)
 ###### [깃허브링크](https://github.com/chaerang2/Todo.gg_Client)
+
+
+
+##### personal
+
+
 
 ###### - writo-do (창작자들의 기억저장소)
 
